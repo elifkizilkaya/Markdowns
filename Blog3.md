@@ -63,8 +63,16 @@ Overall, AI-powered self-healing is a powerful tool for improving the reliabilit
 
 ***
 
-_[1] Eladawy, Hadeel Mohamed, Amr E. Mohamed, and Sameh A. Salem. “A new algorithm for repairing web-locators using optimization techniques.” 2018 13th International Conference on Computer Engineering and Systems (ICCES). IEEE, 2018._
+<p style="font-style:italic;">
+[1] Eladawy, Hadeel Mohamed, Amr E. Mohamed, and Sameh A. Salem. “A new algorithm for repairing web-locators using optimization techniques.” 2018 13th International Conference on Computer Engineering and Systems (ICCES). IEEE, 2018.
+</p>
 
-_[2] Kirinuki, Hiroyuki, Haruto Tanno, and Katsuyuki Natsukawa. “COLOR: correct locator recommender for broken test scripts using various clues in web application.” 2019 IEEE 26th International Conference on Software Analysis, Evolution and Reengineering (SANER). IEEE, 2019._
 
-_[3] https://healenium.io/_
+<p style="font-style:italic;">
+[2] Kirinuki, Hiroyuki, Haruto Tanno, and Katsuyuki Natsukawa. “COLOR: correct locator recommender for broken test scripts using various clues in web application.” 2019 IEEE 26th International Conference on Software Analysis, Evolution and Reengineering (SANER). IEEE, 2019.
+</p>
+
+
+<a href="https://healenium.io/">
+<p style="font-style:italic;">
+[3] https://healenium.io/</p></a>
